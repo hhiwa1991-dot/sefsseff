@@ -1,0 +1,9 @@
+Package: com.cybermala.sampios
+Name: SAMP_iOS
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: SA-MP Client Tweak for iOS
+Maintainer: Cyber MALA
+Author: Cyber MALA
+Section: Tweaks
